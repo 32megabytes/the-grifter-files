@@ -2,12 +2,12 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "246d297a15b687ccf23d5f40d306a99b"
+        "md5": "34a1c482efda7c81ea51e1debfb431c9"
     },
     {
         "path": "about.html",
         "type": "file",
-        "md5": "355215116d38da6c7a4dc00e7bd1ad1d"
+        "md5": "58001af8e2b34919eeea746d8ed0624d"
     },
     {
         "path": "assets",
@@ -107,27 +107,27 @@
     {
         "path": "/authors/2artisans/index.html",
         "type": "file",
-        "md5": "216a0ad5305c26cb7aff1e2ad89a6148"
+        "md5": "5606809fd0fa0e18374290eb336f68a9"
     },
     {
         "path": "copyright-disclosure.html",
         "type": "file",
-        "md5": "98d49fed00c4fc30fc38aed84b580093"
+        "md5": "238da55f08097af7bdb2b3dbddf43f4b"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "d050db11582d3a1e03666199ed9196c5"
+        "md5": "ac1b6b1dd9097b9b59bbc460d44a342a"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "62ce0cd133a8f041ff13ceb82307abfc"
+        "md5": "055ed65ff59a1632c8d2af0207573db1"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "10cf9bae9b65010db1e51b532c46d77d"
+        "md5": "1a11dda9ba30979aef8a2e654988bdb3"
     },
     {
         "path": "media",
@@ -222,22 +222,22 @@
     {
         "path": "menu.html",
         "type": "file",
-        "md5": "91e830ff54127c6cd83b0b87a353efbb"
+        "md5": "d360f7ac9f4b15e096cde70fd6f063ca"
     },
     {
         "path": "robots.txt",
         "type": "file",
-        "md5": "51dd37918ec0d26e53f7d4a767d57fc3"
+        "md5": "29ea9cf1d1b159782d82a380a4a7785f"
     },
     {
         "path": "search.html",
         "type": "file",
-        "md5": "941a22e951affabcb0ed06227909c171"
+        "md5": "6c8dd2ea006336fcf976367395ec0222"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "c4e8e0d4834abaed6f0354e34ea1a5bb"
+        "md5": "622e1801252ceb2cc7ab27bf3bb98060"
     },
     {
         "path": "sitemap.xsl",
@@ -252,11 +252,11 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "ab0ad3aaf2a8997774b6f9ce053efba3"
+        "md5": "b22962e45b2e9f4c5613b3e26ea45ae0"
     },
     {
         "path": "test.html",
         "type": "file",
-        "md5": "a48388ed87a64489f2153b06ef049e7b"
+        "md5": "af3ebda417681fa3403f19e884c895ce"
     }
 ]

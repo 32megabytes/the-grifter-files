@@ -2,18 +2,18 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "The Grifter Files",
     "description": "",
-    "home_page_url": "https://thefoundarchive.com",
-    "feed_url": "https://thefoundarchive.com/feed.json",
+    "home_page_url": "https://thegrifterfiles",
+    "feed_url": "https://thegrifterfiles/feed.json",
     "user_comment": "",
     "author": {
         "name": "Hayden"
     },
     "items": [
         {
-            "id": "https://thefoundarchive.com/test.html",
-            "url": "https://thefoundarchive.com/test.html",
+            "id": "https://thegrifterfiles/test.html",
+            "url": "https://thegrifterfiles/test.html",
             "title": "test",
-            "image": "https://thefoundarchive.com/media/posts/14/DSC06578.JPG",
+            "image": "https://thegrifterfiles/media/posts/14/DSC06578.JPG",
             "author": {
                 "name": "Hayden"
             },
