@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>The Grifter Files</title>
-    <link href="https://thegrifterfiles/feed.xml" rel="self" />
-    <link href="https://thegrifterfiles" />
+    <link href="https://thegrifterfiles.com/feed.xml" rel="self" />
+    <link href="https://thegrifterfiles.com" />
     <updated>2025-01-26T12:45:18-05:00</updated>
     <author>
         <name>Hayden</name>
     </author>
-    <id>https://thegrifterfiles</id>
+    <id>https://thegrifterfiles.com</id>
 
     <entry>
         <title>test</title>
         <author>
             <name>Hayden</name>
         </author>
-        <link href="https://thegrifterfiles/test.html"/>
-        <id>https://thegrifterfiles/test.html</id>
-        <media:content url="https://thegrifterfiles/media/posts/14/DSC06578.JPG" medium="image" />
+        <link href="https://thegrifterfiles.com/test.html"/>
+        <id>https://thegrifterfiles.com/test.html</id>
+        <media:content url="https://thegrifterfiles.com/media/posts/14/DSC06578.JPG" medium="image" />
 
         <updated>2025-01-26T12:39:24-05:00</updated>
             <summary></summary>
