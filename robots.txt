@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://thegrifterfiles.com/sitemap.xml
+Sitemap: https://www.thegrifterfiles.com/sitemap.xml

@@ -2,18 +2,18 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "The Grifter Files",
     "description": "",
-    "home_page_url": "https://thegrifterfiles.com",
-    "feed_url": "https://thegrifterfiles.com/feed.json",
+    "home_page_url": "https://www.thegrifterfiles.com",
+    "feed_url": "https://www.thegrifterfiles.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Hayden"
     },
     "items": [
         {
-            "id": "https://thegrifterfiles.com/test.html",
-            "url": "https://thegrifterfiles.com/test.html",
+            "id": "https://www.thegrifterfiles.com/test.html",
+            "url": "https://www.thegrifterfiles.com/test.html",
             "title": "test",
-            "image": "https://thegrifterfiles.com/media/posts/14/DSC06578.JPG",
+            "image": "https://www.thegrifterfiles.com/media/posts/14/DSC06578.JPG",
             "author": {
                 "name": "Hayden"
             },
