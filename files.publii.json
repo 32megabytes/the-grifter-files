@@ -1,0 +1,262 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "246d297a15b687ccf23d5f40d306a99b"
+    },
+    {
+        "path": "about.html",
+        "type": "file",
+        "md5": "355215116d38da6c7a4dc00e7bd1ad1d"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "45df07ca245fc0e25f9938f995dfd0ee"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "cd3cb0f3b0eb44640f5e777df7d5e7a5"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/dynamic/fonts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/dynamic/fonts/brygada1918",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/dynamic/fonts/brygada1918/brygada1918-italic.woff2",
+        "type": "file",
+        "md5": "a6978edef39b3d1be3a23ae082f65822"
+    },
+    {
+        "path": "/assets/dynamic/fonts/brygada1918/brygada1918.woff2",
+        "type": "file",
+        "md5": "cebc13a8cb02dc943ebb2df5d77ba4af"
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "ffcbea6c02c8178d10092962b235a5b0"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "f0c119fe4ab4e9bba79dea32d15e32df"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/2artisans",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/2artisans/index.html",
+        "type": "file",
+        "md5": "216a0ad5305c26cb7aff1e2ad89a6148"
+    },
+    {
+        "path": "copyright-disclosure.html",
+        "type": "file",
+        "md5": "98d49fed00c4fc30fc38aed84b580093"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "d050db11582d3a1e03666199ed9196c5"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "62ce0cd133a8f041ff13ceb82307abfc"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "10cf9bae9b65010db1e51b532c46d77d"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/plugins",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/plugins/coreLightboxGallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/plugins/coreLightboxGallery/photoswipe-lightbox.esm.min.js",
+        "type": "file",
+        "md5": "b505ee081119c5be142e0dbac4762f99"
+    },
+    {
+        "path": "/media/plugins/coreLightboxGallery/photoswipe-lightbox.umd.min.js",
+        "type": "file",
+        "md5": "96c2a65aa83c62a874ddcd85cbdf69fb"
+    },
+    {
+        "path": "/media/plugins/coreLightboxGallery/photoswipe.esm.min.js",
+        "type": "file",
+        "md5": "97ca880233a37aa88ecd4e06b53c45bd"
+    },
+    {
+        "path": "/media/plugins/coreLightboxGallery/photoswipe.min.css",
+        "type": "file",
+        "md5": "bbfcfcfc7aff4620107555b1d668227d"
+    },
+    {
+        "path": "/media/plugins/coreLightboxGallery/photoswipe.umd.min.js",
+        "type": "file",
+        "md5": "80574f1ec4486c3613d668756ad7e600"
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/14",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/14/DSC06578.JPG",
+        "type": "file",
+        "md5": "b11cb8e810f1d7c38662c5b54c00d423"
+    },
+    {
+        "path": "media/posts/14/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/14/responsive/DSC06578-2xl.JPG",
+        "type": "file",
+        "md5": "adf2774a8b1fd698870573c303614fe2"
+    },
+    {
+        "path": "/media/posts/14/responsive/DSC06578-lg.JPG",
+        "type": "file",
+        "md5": "3fdf766bfd609f519b2ad2086f9daa20"
+    },
+    {
+        "path": "/media/posts/14/responsive/DSC06578-md.JPG",
+        "type": "file",
+        "md5": "3d0b4605f025b77c679e8936f27ced90"
+    },
+    {
+        "path": "/media/posts/14/responsive/DSC06578-sm.JPG",
+        "type": "file",
+        "md5": "8f7d9f040e54cee30d472b1f8716a3e5"
+    },
+    {
+        "path": "/media/posts/14/responsive/DSC06578-xl.JPG",
+        "type": "file",
+        "md5": "8ae442c76a798ad78d8b3ccf6308edec"
+    },
+    {
+        "path": "/media/posts/14/responsive/DSC06578-xs.JPG",
+        "type": "file",
+        "md5": "534c53d97420c9c23e72d2efb5fad8f8"
+    },
+    {
+        "path": "menu.html",
+        "type": "file",
+        "md5": "91e830ff54127c6cd83b0b87a353efbb"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "51dd37918ec0d26e53f7d4a767d57fc3"
+    },
+    {
+        "path": "search.html",
+        "type": "file",
+        "md5": "941a22e951affabcb0ed06227909c171"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "c4e8e0d4834abaed6f0354e34ea1a5bb"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "ab0ad3aaf2a8997774b6f9ce053efba3"
+    },
+    {
+        "path": "test.html",
+        "type": "file",
+        "md5": "a48388ed87a64489f2153b06ef049e7b"
+    }
+]

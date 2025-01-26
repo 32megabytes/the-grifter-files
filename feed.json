@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "The Grifter Files",
+    "description": "",
+    "home_page_url": "https://thefoundarchive.com",
+    "feed_url": "https://thefoundarchive.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Hayden"
+    },
+    "items": [
+        {
+            "id": "https://thefoundarchive.com/test.html",
+            "url": "https://thefoundarchive.com/test.html",
+            "title": "test",
+            "image": "https://thefoundarchive.com/media/posts/14/DSC06578.JPG",
+            "author": {
+                "name": "Hayden"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-01-26T12:39:24-05:00",
+            "date_modified": "2025-01-26T12:45:18-05:00"
+        }
+    ]
+}
